@@ -1,0 +1,17 @@
+{
+    "$_LOCKED_": false,
+    "id": "what-is-dot-search",
+    "title": "What is Dot Search",
+
+    "aliases": [
+        "search"
+    ],
+
+    "valid_for": {
+        "operating_systems": [
+            "windows",
+            "macos",
+            "linux"
+        ]
+    }
+}
